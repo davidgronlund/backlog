@@ -6,6 +6,7 @@ Interesting things to learn when there's time
 
 - [ ] Docker https://docs.docker.com/
 - [ ] Windows 10 containers
+- [ ] Use test-driven development to build a Node.js application with Docker https://developer.ibm.com/technologies/node-js/patterns/use-test-driven-development-to-build-a-nodejs-application
 
 # Azure Devops
 
